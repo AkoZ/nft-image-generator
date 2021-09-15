@@ -2,6 +2,7 @@
 
 ## About
 Python Notebook in Jupyter that will generate a series of unique images using a collection of layers.
+then seems to be evaluated here : tuto: https://dev.to/victorquanlam/nft-images-generator-using-python-jupyter-notebook-1ec7
 
 ## Getting Started
 1. Install [Python](https://www.python.org/downloads/)
